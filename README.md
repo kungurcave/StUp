@@ -1,2 +1,2 @@
-# Stup
+# StUp (Stupid Uploader)
 Пока просто тест
