@@ -1,0 +1,58 @@
+
+#stup_wrapper {
+	margin: 25px 40px 25px 40px;
+}
+
+#stup_showfiles span {
+	background-color: silver;
+}
+
+#stup_wrapper div {
+	margin: 20px 0 20px 0;
+}
+#stup_wrapper form {
+	margin: 20px 0 20px 0;
+}
+
+#stup_progress_wrapper {
+	width: 200px;
+}
+#stup_progress {
+	background-color: green;
+	height: 10px;
+	width: 0;
+	margin: 0;
+}
+
+#stup_wrapper table {
+    border-collapse: collapse;
+}
+#stup_wrapper th, #stup_wrapper td {
+	text-align: center;
+    padding: 2px 12px 2px 12px;
+	border: 1px solid black;
+}
+#stup_wrapper th {
+    background: silver;
+}
+
+#stup_anime {
+	position: relative;
+}
+#stup_fader {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	margin: 0 0 0 0 !important;
+	background-color: white;
+	opacity: 1;
+	transition: opacity 300ms;
+}
+#stup_message {
+	position: relative;
+}
+#stup_output {
+	position: relative;
+}
+
